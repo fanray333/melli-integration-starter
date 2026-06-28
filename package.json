@@ -1,0 +1,21 @@
+{
+  "name": "@melliai/core",
+  "version": "0.1.0",
+  "description": "Public-safe MELLI Core provider router and tool contracts.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "melli",
+    "ai",
+    "ollama",
+    "provider-router",
+    "agents"
+  ],
+  "license": "MIT"
+}
