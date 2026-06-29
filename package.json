@@ -7,9 +7,26 @@
   "exports": {
     ".": "./src/index.js"
   },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "SECURITY.md"
+  ],
   "scripts": {
     "test": "node --test"
   },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanray333/melli-integration-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fanray333/melli-integration-starter/issues"
+  },
+  "homepage": "https://github.com/fanray333/melli-integration-starter#readme",
   "keywords": [
     "melli",
     "ai",
